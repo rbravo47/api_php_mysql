@@ -1,0 +1,6 @@
+
+# En lugar de subir la carpeta vendor/, los demás desarrolladores pueden ejecutar composer install en sus propios entornos 
+# para instalar las dependencias especificadas en el composer.json.
+
+/vendor/
+.env
